@@ -1,0 +1,1 @@
+# remote-config-for-norwii-powerpoint
