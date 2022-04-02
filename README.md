@@ -1,1 +1,1 @@
-# remote-config-for-norwii-powerpoint
+# AutoHotkey Config for Norwii Presenter Remotes
