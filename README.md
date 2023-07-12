@@ -1,6 +1,6 @@
 # AutoHotkey Config for PowerPoint
 
-* AutoHotkey v2 Tutorial: [https://nothans.com/stream-deck-autohotkey-powerpoint](https://nothans.com/control-powerpoint-with-autohotkey-v2)
+* AutoHotkey v2 Tutorial: https://nothans.com/control-powerpoint-with-autohotkey-v2
 
 * Norwii Presenter Remote Tutorial: https://nothans.com/next-level-powerpoint-control-for-online-meetings-norwii-presenter-remote-autohotkey
 
